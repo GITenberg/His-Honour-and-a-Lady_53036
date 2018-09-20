@@ -1,0 +1,32 @@
+_repo: His-Honour-and-a-Lady_53036
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Duncan, Sara Jeannette
+    aliases:
+    - Cotes, Everard, Mrs.
+    - Cotes, V. Cecil
+    - Wintergreen, Jane
+    - Cotes, Mrs. Everard
+    - Grafton, Garth
+    birthdate: 1861
+    deathdate: 1922
+    gutenberg_agent_id: '542'
+    url: http://www.gutenberg.org/2009/agents/542
+    wikipedia: http://en.wikipedia.org/wiki/Sara_Jeannette_Duncan
+description: ''
+gutenberg_issued: '2016-09-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53036'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'British -- India -- Fiction'
+- !lcc 'PS'
+- !lcsh 'India -- History -- British occupation, 1765-1947 -- Fiction'
+- GITenberg
+title: His Honour, and a Lady
+url: http://www.gutenberg.org/ebooks/53036
